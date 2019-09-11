@@ -51,7 +51,7 @@ const addNumbers = (num, arr, times, callback) => {
 };
 
 /* ------------------------------------------------------------------------------------------------
-CHALLENGE 3
+CHALLENGE 3cs
 
 Write a function named removeOne that takes in a number and an array. If the number divided by three has a remainder of two, pop one element off of the array.
 
